@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("Hello world!")
-return 0;
+  printf("Hello world!");
+  printf("First commit!");
+  return 0;
 }
